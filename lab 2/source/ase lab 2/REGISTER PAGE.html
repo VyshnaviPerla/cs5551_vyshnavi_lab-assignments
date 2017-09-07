@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css"> -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+
+    <!-- Website CSS style -->
+    <link rel="stylesheet" href="main.css">
+
+    <!-- Website Font style -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+
+    <!-- Google Fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Passion+One' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
+
+    <title>Register Page</title>
+</head>
+<body>
+           <h1>Registration Page</h1>
+            <form class="form-horizontal" method="post"  name="regform" onsubmit="return lStorage()">
+
+                <div class="container">
+                    <div class="row main">
+                        <div class="panel-heading">
+                            <div class="panel-title text-center">
+                                <h1 class="title">CELEST TRAFFIC</h1>
+                                <hr />
+                            </div>
+                        </div>
+                        <div class="main-login main-center">
+                            <form class="form-horizontal" name="logform" method="post" action="home.html" name="Login" onsubmit="return lvalidation()" >
+                                <div class="form-group">
+                                    <label for="lusername" class="cols-sm-2 control-label">Fullname</label>
+
+                                    <div class="cols-sm-10">
+                                        <div class="input-group">
+
+                                            <input type="text" class="form-control" name="lusername" id="lusername"  placeholder="Enter your Full Name"/>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="lpassword" class="cols-sm-2 control-label">Username</label>
+                                    <div class="cols-sm-10">
+                                        <div class="input-group">
+
+                                            <input type="password" class="form-control" name="lpassword" id="lpassword"  placeholder="Create your username"/>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+                                <div class="form-group">
+                    <label for="username" class="cols-sm-2 control-label">Password</label>
+                    <div class="cols-sm-10">
+                        <div class="input-group">
+
+                            <input type="text" class="form-control" name="username" id="username"  placeholder="set a password"/>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+
+
+                <div class="form-group">
+                    <label for="password" class="cols-sm-2 control-label">Confirm Password</label>
+                    <div class="cols-sm-10">
+                        <div class="input-group">
+
+                            <input type="password" class="form-control" name="password" id="password"  placeholder="re-enter your password"/>
+                        </div>
+                    </div>
+                </div>
+                 <input type="submit" value="submit">
+
+               <button>
+                    <a href="http://localhost:63342/Desktop/ase%20lab%202%20vyshu/LOGIN%20PAGE.html?_ijt=8g55aaijgugetel14omagok3t7">Login</a>
+               </button>
+            </form>
+
+<script>
+    function lStorage()
+    {
+        if (localStorage) {
+            form = document.forms["regform"];
+            var username = form["username"].value;
+            var password = form["password"].value;
+            //name validation
+            localStorage.setItem('username', username);
+            localStorage.setItem('password', password);
+            return true;
+        }
+    }
+</script>
+<!-- <script type="text/javascript" src="assets/js/bootstrap.js"></script> -->
+</body>
+</html>
