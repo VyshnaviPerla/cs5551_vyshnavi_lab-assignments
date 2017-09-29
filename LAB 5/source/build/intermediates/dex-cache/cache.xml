@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_18a036607523da7e8839ab10aa3b54b0cc6c8ad2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.1\381fc1096ba65040d8e80ea43b2e1d9bad02345e\logging-interceptor-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.4.1_75100270737264b61656168365fc2923ad1abfba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.android\build-cache\5ad100371aa21eb682f4c22877895a802902725f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15c5797fa4f75484420119aa4dc509b2047f396a">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_15b7c7f23ba31b3cee7a1306b7f20f0ae6a53936\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.android\build-cache\6bdd5c2e47160f615b9b5e40617b54a8958be895\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_636a3914b6ff03773682f49a9860769b05bd1943\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.gradle\caches\modules-2\files-2.1\com.clarifai.clarifai-api2\core\2.2.12\924044cccc392de00d6de871ea0afb4c6a0ce843\core-2.2.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="924044cccc392de00d6de871ea0afb4c6a0ce843">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-2.2.12_42a5b2eba46f0ed37f917a4634e045530fa09477\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.android\build-cache\ff0fa5da8d629dbb8757b6203cbdffb95d8395af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ebe9d86602a1e141c9cf66d84c7377b6766184ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.android\build-cache\9d331bccd84c295caf730ea43236db2adf64c9b8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="21752cbe99942598e0b554b84e79b7c8d6f172f2">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6cf5290e5384bbab60f44fd461ecde2268c66b3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3c91996ec09fce4f4311d4191fb92bcd35309b5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_75ce02893ca17b4064df0c53b10b9f669ab8a756\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.android\build-cache\573a7a54e1be28c7dd83428ed824c203b38e4a77\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5874d9414f6ac5f5d72508ca82b007738199b35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.android\build-cache\85eacb2672d71a449b08206a4289afa355360380\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d2c4bfb854c7998504ea399a4e2dc7400457640\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.android\build-cache\77c7b52e7bb5895db335df36b99d92a68132437f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eebbfc508b10da30adc943c86ecc802f9bcc9a06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.android\build-cache\968ab8d9f9de7763af0bd66c26c99ec0b35a2d78\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_65059c8aba85318e196f9ecbf045094ae447493f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_d529a92becdf1ad018bcadc7eed4e09104ce77e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.android\build-cache\21dc249691576430fe502852259970ca993140e6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ced1fac932a1c44968db51863b514b9b210d77a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.android\build-cache\8f2953269caafa029fda2c5ee021a6ebd08df3ab\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f28cf4481d6433230aacb77b943e6c8bb70ca1ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.android\build-cache\968ab8d9f9de7763af0bd66c26c99ec0b35a2d78\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a07cea1567e6d8f6ef59b1cd3fa6a71df9441c5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.android\build-cache\d7a75ac06fe865d3027b25de451eef909c99c0be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84c98924eff3106f306c3e233cc2e6d84744f518">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_77c7cfbffe2fb42edd5ea6f38183a427d7db4fd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.android\build-cache\85eacb2672d71a449b08206a4289afa355360380\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_50d5198bbcef71038f657ee26e671b5b109c4cdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.android\build-cache\fd0abc186d3abfbde271f86c5c8896672b9e4b2e\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e56d7eba33a9aef318c2cb46857fa743a4f83e9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.android\build-cache\8f2953269caafa029fda2c5ee021a6ebd08df3ab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_845db70f44fe15462c372a911bef02bad28bdab6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.android\build-cache\180c7e4483a3a9a058c3f7f3eb88adaa61d1556e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_39938e632d1e4518c441ca53dd442ea731824f1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.android\build-cache\840059427d2388a36d34418e021b3ffa5eac455d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2646d1aaea13ffb8b1085eff4530824523606f6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.android\build-cache\7486d14f0f4e80ba142806ab4f9b03a8d51a6155\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c374062d56f2874fa7e190b12ae4f287adefd139\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.10\2ac360e8a47601a8dfd044e646f05b99d151f2e0\rxjava-1.1.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2ac360e8a47601a8dfd044e646f05b99d151f2e0">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.10_0587dd08446821975e544af207536c77b1c503c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.android\build-cache\6bdbe93d3dd6bb970f54824ba5263026c2ddbb75\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a11388058c8c82cbdb5e8646f1c37adfc7755d6">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f042cab5481dad985deef8a1cdd96c67896708c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09d7e1666a13f136dc10b5a5f8e3286753c8b34f">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_72f7836038f40c1b2677c968922c01083f0a6924\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.android\build-cache\f41752bcec2019d01f5a371525cb218b2904593d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fba538e4a999351c076639c4febdb49c0b1897f0">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bb057ddfc231db98b0ff18c8b4296fdb03dc3136\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.android\build-cache\fd0abc186d3abfbde271f86c5c8896672b9e4b2e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_16a21f479370d4fa803993f35f4e7b11275f7646\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.android\build-cache\ac550db3ae6530baf37fd7a6dec64a40d52b99d8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcac7435781db56e25ab17c3f662227c517fc327">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8da485bffb0f517aad69e98005a00829e6f92f58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vyshnavi Perla\.android\build-cache\21dc249691576430fe502852259970ca993140e6\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Vyshnavi Perla\Desktop\clarifai-android-starter-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_14e06c001cbf920f69ffef5b7d7cc0b90852993f\classes.dex" />
+    </item>
+
+</items>
