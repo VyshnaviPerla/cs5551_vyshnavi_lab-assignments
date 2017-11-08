@@ -1,4 +1,4 @@
-package com.example.sridevi.androidwearapplication;
+package com.example.vyshnavi.androidwearapplication;
 
 import android.app.Activity;
 import android.os.Bundle;
